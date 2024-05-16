@@ -132,7 +132,7 @@ html{
 }
 #slider{
     display: flex;
-    background: url("/architect/assets/image/bg.jpg") center / cover no-repeat;
+    background: url("/assets/image/bg.jpg") center / cover no-repeat;
     margin-top: 55px;
     aspect-ratio: 10/4;
     justify-content: center;
